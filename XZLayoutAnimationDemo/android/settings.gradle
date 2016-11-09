@@ -1,0 +1,3 @@
+rootProject.name = 'XZLayoutAnimationDemo'
+
+include ':app'
